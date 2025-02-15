@@ -16,4 +16,4 @@ Run the application using:
 node index.js Yafet01
 ```
 
-# github-user-activity
+
